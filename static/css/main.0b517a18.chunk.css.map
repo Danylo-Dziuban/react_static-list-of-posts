@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/PostInfo/PostInfo.scss","webpack://src/components/CommentInfo/CommentInfo.scss"],"names":[],"mappings":"AAAA,WACE,aAAyB,CCD3B,MACE,yBAA0B","file":"main.0b517a18.chunk.css","sourcesContent":[".post-text {\n  color: rgb(218, 210, 210);\n}\n",".text {\n  text-decoration: underline;\n}\n"]}
